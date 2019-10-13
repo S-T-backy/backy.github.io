@@ -1,0 +1,1008 @@
+body {
+  height: 100%;
+  background: url('../images/8b0e90fba4453dfb101f414415b3bc72(2).jpg') rgb(78, 155, 148);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  font: 700 1.875em/1.38 Montserrat;
+  color: rgb(0, 0, 0);
+}
+
+.baidu {
+  z-index: 0;
+  width: 21.8204488778%;
+  height: 68px;
+  margin-top: 52px;
+  border-radius: 2px;
+  background-image: url('../images/baidu.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+}
+
+.bilibili {
+  z-index: 3;
+  width: 22.5685785536%;
+  height: 68px;
+  margin: 52px 0 0 5.85208%;
+  border-radius: 20px;
+  background-image: url('../images/bilibili(%E5%B7%B2%E5%8E%BB%E5%BA%95).png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 30%;
+}
+
+.button {
+  display: block;
+  position: relative;
+  float: left;
+  background-color: rgba(255, 255, 255, 0.44);
+  font-size: 0.533em;
+  font-weight: 400;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.container {
+  float: left;
+  width: 66.7942708333%;
+  height: 218px;
+  margin: 143px 0 0 3.79948%;
+}
+
+.csdn {
+  z-index: 1;
+  width: 22.5685785536%;
+  height: 68px;
+  margin: 52px 0 0 5.57722%;
+  border-radius: 10px;
+  background-image: url('../images/csdn(3).jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.element {
+  float: left;
+  width: 10%;
+  height: 1800px;
+  margin-top: -12px;
+  background: url('../images/ac5afa59ada34de634b6be4db5a59b24%20-%20%E5%89%AF%E6%9C%AC.png') rgba(222, 222, 222, 0);
+  background-repeat: repeat-y;
+  background-size: contain;
+  background-position: center center;
+}
+
+.github {
+  z-index: 7;
+  width: 8.9828063472%;
+  height: 73px;
+  margin: 13px 0 0 1.4562%;
+  border-radius: 100px;
+  background-image: url('../images/github.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.google {
+  clear: both;
+  z-index: 4;
+  width: 21.8204488778%;
+  height: 68px;
+  margin-top: 18px;
+  border-radius: 2px;
+  background-image: url('../images/google(2).png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.maliao {
+  display: block;
+  position: relative;
+  float: left;
+  z-index: 6;
+  width: 22.5685785536%;
+  height: 68px;
+  margin: 18px 0 0 5.85208%;
+  border-radius: 20px;
+  background: url('../images/b1402decfdec7f1696eb729969525270.png') rgba(255, 255, 255, 0.44);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  font-size: 0.533em;
+  font-weight: 400;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.sina {
+  z-index: 5;
+  width: 22.5685785536%;
+  height: 68px;
+  margin: 18px 0 0 5.83259%;
+  border-radius: 10px;
+  background-image: url('../images/sina-logo-white-744x430(%E5%B7%B2%E5%8E%BB%E5%BA%95).png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left top;
+}
+
+.taobao {
+  z-index: 8;
+  width: 8.3590003508%;
+  height: 73px;
+  margin: 13px 0 0 0.99809%;
+  border-radius: 100px;
+  background-image: url('../images/timg(%E5%B7%B2%E5%8E%BB%E5%BA%95).png');
+  background-repeat: repeat-y;
+  background-size: 80px auto;
+  background-position: center top;
+}
+
+._button {
+  display: block;
+  float: left;
+  border-radius: 3px;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.container ._button {
+  position: relative;
+  z-index: 2;
+  width: 18.0798004987%;
+  height: 132px;
+  margin-left: 3.2165%;
+  background: url('../images/1011bce4d5fdbb6dcb74b137b4931e7e.png') rgba(255, 255, 255, 0);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+  font-size: 0.533em;
+  font-weight: 400;
+}
+
+._button-1 {
+  width: 12.1666666666%;
+  height: 68px;
+  margin: 195px 0 0 5%;
+  background-color: #d9bdc5;
+  font-size: 1em;
+}
+
+@media(max-width: 1100px) {
+  body {
+    font-size: 1.563em;
+  }
+
+  .container {
+    width: 67.909090909%;
+    height: 224px;
+    margin-left: 3.77983%;
+  }
+
+  .container .baidu {
+    z-index: 0;
+    width: 21.4733935742%;
+    height: 60px;
+    margin-left: -0.09413%;
+  }
+
+  .container .bilibili {
+    z-index: 3;
+    width: 22.2096720214%;
+    height: 60px;
+    margin-left: 5.7459%;
+  }
+
+  .container .button {
+    position: relative;
+    font-size: 0.64em;
+  }
+
+  .container .csdn {
+    z-index: 1;
+    width: 22.2096720214%;
+    height: 60px;
+    margin-left: 5.73963%;
+  }
+
+  .container .github {
+    z-index: 7;
+    width: 8.9724006612%;
+    height: 67px;
+    margin-top: 16px;
+    margin-left: 1.60852%;
+  }
+
+  .container .google {
+    z-index: 4;
+    width: 21.4733935742%;
+    height: 60px;
+    margin-top: 16px;
+  }
+
+  .container .maliao {
+    position: relative;
+    z-index: 6;
+    width: 22.2096720214%;
+    height: 60px;
+    margin-top: 16px;
+    margin-left: 5.7459%;
+    font-size: 0.64em;
+  }
+
+  .container .sina {
+    z-index: 5;
+    width: 22.2096720214%;
+    height: 60px;
+    margin-top: 16px;
+    margin-left: 5.6455%;
+  }
+
+  .container .taobao {
+    z-index: 8;
+    width: 8.8384842334%;
+    height: 67px;
+    margin-top: 16px;
+    margin-left: 1.47047%;
+    border-width: 1px;
+    border-style: none;
+    background-size: 73px 80px;
+  }
+
+  .element {
+    margin-top: 0;
+  }
+
+  ._button {
+    height: 60px;
+    margin-left: 5.1875%;
+    font-size: 25px;
+  }
+
+  .container ._button {
+    position: relative;
+    z-index: 2;
+    width: 21.0248791613%;
+    height: 122px;
+    margin-top: 12px;
+    margin-left: 1.68382%;
+    font-size: 0.64em;
+  }
+}
+
+@media(max-width: 1000px) {
+  body {
+    font-size: 1.438em;
+  }
+
+  .container {
+    width: 67.5%;
+    height: 209px;
+    margin-left: 3.73438%;
+  }
+
+  .container .baidu {
+    z-index: 0;
+    width: 20.8623927038%;
+    margin-left: 0.88889%;
+  }
+
+  .container .bilibili {
+    z-index: 3;
+    width: 21.5777002861%;
+    margin-left: 5.34954%;
+  }
+
+  .container .button {
+    position: relative;
+    font-size: 0.696em;
+  }
+
+  .container .csdn {
+    z-index: 1;
+    width: 21.5777002861%;
+    margin-left: 4.91667%;
+  }
+
+  .container .github {
+    z-index: 7;
+    width: 8.8888888888%;
+    height: 61px;
+    margin-top: 18px;
+    margin-left: 3.05093%;
+    background-size: contain;
+  }
+
+  .container .google {
+    z-index: 4;
+    width: 20.8623927038%;
+    margin-top: 18px;
+    margin-left: 0.88889%;
+    background-size: contain;
+  }
+
+  .container .maliao {
+    position: relative;
+    z-index: 6;
+    width: 21.5777002861%;
+    margin-top: 18px;
+    margin-left: 5.59954%;
+    font-size: 0.696em;
+  }
+
+  .container .sina {
+    z-index: 5;
+    width: 21.5777002861%;
+    margin-top: 18px;
+    margin-left: 4.66667%;
+  }
+
+  .container .taobao {
+    z-index: 8;
+    width: 8.8888888888%;
+    height: 61px;
+    margin-top: 18px;
+    margin-left: 1.9213%;
+    border-width: 3px;
+    background-size: 50px 57px;
+  }
+
+  ._button {
+    margin-left: 4.5%;
+    font-size: 23px;
+  }
+
+  .container ._button {
+    position: relative;
+    z-index: 2;
+    width: 21.6296296296%;
+    height: 125px;
+    margin-top: 0;
+    margin-left: 1.6088%;
+    font-size: 0.696em;
+  }
+}
+
+@media(max-width: 900px) {
+  body {
+    height: 100%;
+    background-image: none;
+    background-position: 0% 0%;
+  }
+
+  .container {
+    width: 67.8888888888%;
+    height: 223px;
+    margin-left: 3.89931%;
+  }
+
+  .container .baidu {
+    z-index: 0;
+    margin-left: -0.09974%;
+  }
+
+  .container .bilibili {
+    z-index: 3;
+    margin-left: 5.58525%;
+  }
+
+  .container .button {
+    position: relative;
+    font-size: 0.64em;
+  }
+
+  .container .csdn {
+    z-index: 1;
+    margin-left: 5.58525%;
+  }
+
+  .container .github {
+    z-index: 7;
+    width: 8.6745262511%;
+    height: 53px;
+    margin-top: 23px;
+    margin-left: 1.48582%;
+  }
+
+  .container .google {
+    z-index: 4;
+    margin-top: 23px;
+    margin-left: -0.09974%;
+  }
+
+  .container .maliao {
+    position: relative;
+    z-index: 6;
+    margin-top: 23px;
+    margin-left: 5.58525%;
+    font-size: 0.64em;
+  }
+
+  .container .sina {
+    z-index: 5;
+    margin-top: 23px;
+    margin-left: 5.58525%;
+  }
+
+  .container .taobao {
+    z-index: 8;
+    width: 8.8381965578%;
+    height: 53px;
+    margin-top: 23px;
+    margin-left: 2.32463%;
+  }
+
+  ._button {
+    margin-left: 5.19792%;
+    font-size: 25px;
+  }
+
+  .container ._button {
+    position: relative;
+    z-index: 2;
+    width: 21.6044804746%;
+    height: 105px;
+    margin-top: 15px;
+    margin-left: 2.65709%;
+    font-size: 0.64em;
+  }
+}
+
+@media(max-width: 800px) {
+  body {
+    font-size: 1.125em;
+  }
+
+  .container {
+    width: 67.875%;
+    height: 196px;
+    margin-left: 4.08008%;
+  }
+
+  .container .baidu {
+    z-index: 0;
+    margin-left: -0.09496%;
+  }
+
+  .container .bilibili {
+    z-index: 3;
+    margin-left: 5.55364%;
+  }
+
+  .container .button {
+    position: relative;
+    font-size: 0.889em;
+  }
+
+  .container .csdn {
+    z-index: 1;
+    margin-left: 5.55364%;
+  }
+
+  .container .github {
+    z-index: 7;
+    width: 10.5002590524%;
+    height: 58px;
+    margin-top: 18px;
+    margin-left: 1.40424%;
+  }
+
+  .container .google {
+    z-index: 4;
+    margin-top: 18px;
+    margin-left: 0;
+    background-repeat: repeat-x;
+  }
+
+  .container .maliao {
+    position: relative;
+    z-index: 6;
+    margin-top: 18px;
+    margin-left: 5.55364%;
+    font-size: 0.889em;
+  }
+
+  .container .sina {
+    z-index: 5;
+    margin-top: 18px;
+    margin-left: 5.55364%;
+  }
+
+  .container .taobao {
+    z-index: 8;
+    width: 10.1318289102%;
+    height: 58px;
+    margin-top: 18px;
+    margin-left: 1.14814%;
+    border-style: solid;
+  }
+
+  ._button {
+    margin-top: 196px;
+    margin-left: 5.19922%;
+    font-size: 18px;
+  }
+
+  .container ._button {
+    position: relative;
+    z-index: 2;
+    width: 23.1997468281%;
+    height: 100px;
+    margin-top: 12px;
+    margin-left: 1.49632%;
+    font-size: 0.889em;
+  }
+}
+
+@media(max-width: 700px) {
+  .container {
+    width: 67.8%;
+    margin-left: 2.59152%;
+  }
+
+  .container .baidu {
+    z-index: 0;
+    margin-left: -0.09548%;
+  }
+
+  .container .bilibili {
+    z-index: 3;
+    margin-left: 5.54422%;
+  }
+
+  .container .button {
+    position: relative;
+  }
+
+  .container .csdn {
+    z-index: 1;
+    margin-left: 5.54422%;
+  }
+
+  .container .github {
+    z-index: 7;
+    width: 10.7460327912%;
+    height: 51px;
+    margin-top: 30px;
+    margin-left: 2.29802%;
+  }
+
+  .container .google {
+    z-index: 4;
+    margin-top: 30px;
+  }
+
+  .container .maliao {
+    position: relative;
+    z-index: 6;
+    margin-top: 30px;
+    margin-left: 5.54422%;
+  }
+
+  .container .sina {
+    z-index: 5;
+    margin-top: 30px;
+    margin-left: 5.54422%;
+  }
+
+  .container .taobao {
+    z-index: 8;
+    width: 9.4817936392%;
+    height: 48px;
+    margin-top: 30px;
+    margin-left: 1.46507%;
+    border-width: 2px;
+  }
+
+  ._button {
+    margin-top: 198px;
+    margin-left: 5.57143%;
+  }
+
+  .container ._button {
+    position: relative;
+    z-index: 2;
+    width: 24.8429224645%;
+    height: 102px;
+    margin-top: 6px;
+    margin-left: 0.09548%;
+  }
+}
+
+@media(max-width: 600px) {
+  body {
+    font-size: 1.438em;
+  }
+
+  .container {
+    width: 67.8333333333%;
+    height: 218px;
+    margin-left: 3.29948%;
+  }
+
+  .container .baidu {
+    z-index: 0;
+    margin-left: -0.06143%;
+  }
+
+  .container .bilibili {
+    z-index: 3;
+    margin-left: 5.52826%;
+  }
+
+  .container .button {
+    position: relative;
+    font-size: 0.696em;
+  }
+
+  .container .csdn {
+    z-index: 1;
+    margin-left: 5.52826%;
+    background-size: contain;
+  }
+
+  .container .github {
+    z-index: 7;
+    width: 11.0620318801%;
+    height: 44px;
+    margin-top: 41px;
+    margin-left: 2.23818%;
+  }
+
+  .container .google {
+    z-index: 4;
+    margin-top: 25px;
+  }
+
+  .container .maliao {
+    position: relative;
+    z-index: 6;
+    margin-top: 25px;
+    margin-left: 5.52826%;
+    font-size: 0.696em;
+  }
+
+  .container .sina {
+    z-index: 5;
+    margin-top: 25px;
+    margin-left: 5.40541%;
+    background-size: contain;
+    background-position: center center;
+  }
+
+  .container .taobao {
+    z-index: 8;
+    width: 11.5479115479%;
+    height: 46px;
+    margin-top: 0;
+    margin-left: 0;
+  }
+
+  ._button {
+    margin-top: 195px;
+    margin-left: 5.19792%;
+    font-size: 23px;
+  }
+
+  .container ._button {
+    position: relative;
+    z-index: 2;
+    width: 22.3698866909%;
+    height: 95px;
+    margin-top: 21px;
+    margin-left: 1.93873%;
+    font-size: 0.696em;
+  }
+}
+
+@media(max-width: 500px) {
+  body {
+    font-size: 1.125em;
+  }
+
+  .container {
+    width: 65.8%;
+    margin-left: 3.43438%;
+  }
+
+  .container .baidu {
+    z-index: 0;
+    width: 21.5799999999%;
+    height: 50px;
+    margin-left: -0.019%;
+  }
+
+  .container .bilibili {
+    z-index: 3;
+    height: 50px;
+    margin-left: 5.50912%;
+  }
+
+  .container .button {
+    position: relative;
+    font-size: 0.889em;
+  }
+
+  .container .csdn {
+    z-index: 1;
+    height: 50px;
+    margin-left: 5.50912%;
+  }
+
+  .container .github {
+    z-index: 7;
+    width: 11.2042753155%;
+    height: 38px;
+    margin-top: 18px;
+    margin-left: 1.52926%;
+  }
+
+  .container .google {
+    clear: none;
+    z-index: 4;
+    width: 21.5799999999%;
+    height: 50px;
+    margin-top: 18px;
+  }
+
+  .container .maliao {
+    position: relative;
+    z-index: 6;
+    height: 50px;
+    margin-top: 18px;
+    margin-left: 5.46163%;
+    font-size: 0.889em;
+  }
+
+  .container .sina {
+    z-index: 5;
+    height: 50px;
+    margin-top: 18px;
+    margin-left: 5.50912%;
+    background-position: center top;
+  }
+
+  .container .taobao {
+    clear: both;
+    z-index: 8;
+    width: 12.462006079%;
+    height: 44px;
+    margin-top: -73px;
+    margin-left: 88.4261%;
+  }
+
+  ._button {
+    height: 50px;
+    margin-top: 197px;
+    margin-left: 3.6%;
+    font-size: 18px;
+  }
+
+  .container ._button {
+    position: relative;
+    clear: both;
+    z-index: 2;
+    width: 24.1887905604%;
+    height: 73px;
+    margin-top: -73px;
+    margin-left: 77.2179%;
+    font-size: 0.889em;
+  }
+}
+
+@media(max-width: 400px) {
+  body {
+    font-size: 0.938em;
+  }
+
+  .container {
+    width: 69.5%;
+    margin-top: -1660px;
+    margin-left: 25%;
+  }
+
+  .container .baidu {
+    z-index: 0;
+    height: 35px;
+    margin-left: 0;
+  }
+
+  .container .bilibili {
+    z-index: 3;
+    height: 35px;
+    margin-left: 5.46875%;
+  }
+
+  .container .button {
+    position: relative;
+    font-size: 1.067em;
+  }
+
+  .container .csdn {
+    z-index: 1;
+    height: 35px;
+    margin-left: 5.46875%;
+  }
+
+  .container .github {
+    z-index: 7;
+    width: 12.5899280575%;
+    margin-left: 1.22527%;
+  }
+
+  .container .google {
+    z-index: 4;
+    height: 35px;
+  }
+
+  .container .maliao {
+    position: relative;
+    z-index: 6;
+    height: 35px;
+    margin-left: 5.4631299999%;
+    font-size: 1.067em;
+  }
+
+  .container .sina {
+    z-index: 5;
+    height: 35px;
+    margin-left: 5.46875%;
+  }
+
+  .container .taobao {
+    z-index: 8;
+    width: 11.8705035971%;
+    height: 35px;
+    margin-top: -65px;
+    margin-left: 88.1294999999%;
+  }
+
+  .element {
+    position: relative;
+    z-index: 10;
+  }
+
+  ._button {
+    position: relative;
+    clear: both;
+    z-index: 11;
+    margin-top: -1606px;
+    margin-left: 7.84766%;
+    font-size: 15px;
+  }
+
+  .container ._button {
+    position: relative;
+    z-index: 2;
+    margin-top: -75px;
+    margin-left: 77.2482%;
+    font-size: 1.067em;
+  }
+
+  ._button-1 {
+    height: 35px;
+  }
+}
+
+@media(max-width: 300px) {
+  body {
+    height: 100%;
+    background-image: url('../images/8b0e90fba4453dfb101f414415b3bc72(2).jpg');
+    background-size: cover;
+    background-position: center center;
+  }
+
+  .container {
+    width: 66.6666666666%;
+    height: 131px;
+    margin-top: 139px;
+    margin-left: 4.29688%;
+  }
+
+  .container .baidu {
+    z-index: 0;
+    width: 21.7661691542%;
+    height: 25px;
+    margin-top: 0;
+    margin-left: -1.15625%;
+  }
+
+  .container .bilibili {
+    z-index: 3;
+    width: 22.5124378109%;
+    height: 25px;
+    margin-top: 0;
+    margin-left: 13.99219%;
+    background-size: contain;
+  }
+
+  .container .button {
+    position: relative;
+    font-size: 1.333em;
+  }
+
+  .container .csdn {
+    z-index: 1;
+    width: 22.5124378109%;
+    height: 25px;
+    margin-top: 0;
+    margin-left: 13.99219%;
+  }
+
+  .container .github {
+    clear: both;
+    z-index: 7;
+    width: 22.9623274315%;
+    height: 25px;
+    margin-top: -25px;
+    margin-left: -1.42969%;
+  }
+
+  .container .google {
+    clear: both;
+    z-index: 4;
+    width: 21.7661691542%;
+    height: 25px;
+    margin-top: -31px;
+    margin-left: -1.15625%;
+  }
+
+  .container .maliao {
+    position: relative;
+    z-index: 6;
+    width: 22.5124378109%;
+    height: 25px;
+    margin-top: 20px;
+    margin-left: 34.5625%;
+    font-size: 1.333em;
+  }
+
+  .container .sina {
+    z-index: 5;
+    width: 22.5124378109%;
+    height: 25px;
+    margin-top: -31px;
+    margin-left: 34.5625%;
+  }
+
+  .container .taobao {
+    clear: none;
+    z-index: 8;
+    width: 22.4631464004%;
+    height: 23px;
+    margin-top: -25px;
+    margin-left: 72.23438%;
+    background-size: 23px 26px;
+  }
+
+  .element {
+    position: relative;
+    z-index: 10;
+  }
+
+  ._button {
+    position: relative;
+    z-index: 11;
+    height: 25px;
+    margin-top: 139px;
+    margin-left: 3.19792%;
+    font-size: 12px;
+  }
+
+  .container ._button {
+    position: relative;
+    z-index: 2;
+    width: 26.4565946494%;
+    height: 46px;
+    margin-top: 8px;
+    margin-left: 67.125%;
+    font-size: 1.333em;
+  }
+
+  ._button-1 {
+    clear: none;
+  }
+}
